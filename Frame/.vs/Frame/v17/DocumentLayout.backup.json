@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\Frame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83DE20C9-81F2-4704-92CA-B79C03C248A1}|..\\FrameCreation_WPF\\FrameCreation_WPF.csproj|d:\\iti\\api\\sap\\asmaa abo elhana shaban\\asmaa abo elhana shaban\\framecreation_wpf\\helperclasses\\sapapi_helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DE20C9-81F2-4704-92CA-B79C03C248A1}|..\\FrameCreation_WPF\\FrameCreation_WPF.csproj|d:\\iti\\api\\sap\\asmaa abo elhana shaban\\asmaa abo elhana shaban\\framecreation_wpf\\view\\tool_view.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DE20C9-81F2-4704-92CA-B79C03C248A1}|..\\FrameCreation_WPF\\FrameCreation_WPF.csproj|d:\\iti\\api\\sap\\asmaa abo elhana shaban\\asmaa abo elhana shaban\\framecreation_wpf\\cplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DE20C9-81F2-4704-92CA-B79C03C248A1}|..\\FrameCreation_WPF\\FrameCreation_WPF.csproj|d:\\iti\\api\\sap\\asmaa abo elhana shaban\\asmaa abo elhana shaban\\framecreation_wpf\\models\\sap_columns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DE20C9-81F2-4704-92CA-B79C03C248A1}|..\\FrameCreation_WPF\\FrameCreation_WPF.csproj|d:\\iti\\api\\sap\\asmaa abo elhana shaban\\asmaa abo elhana shaban\\framecreation_wpf\\models\\xyz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DE20C9-81F2-4704-92CA-B79C03C248A1}|..\\FrameCreation_WPF\\FrameCreation_WPF.csproj|d:\\iti\\api\\sap\\asmaa abo elhana shaban\\asmaa abo elhana shaban\\framecreation_wpf\\view\\tool_view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\Models\\Sap_Columns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\View\\Tool_View.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBA7B0D-6833-4DB9-80CD-D0FF1BD6DFDE}|FrameCreation.csproj|D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\Frame\\models\\sap_columns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBA7B0D-6833-4DB9-80CD-D0FF1BD6DFDE}|FrameCreation.csproj|solutionrelative:models\\sap_columns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBA7B0D-6833-4DB9-80CD-D0FF1BD6DFDE}|Frame.csproj|D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\Frame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBA7B0D-6833-4DB9-80CD-D0FF1BD6DFDE}|Frame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBA7B0D-6833-4DB9-80CD-D0FF1BD6DFDE}|FrameCreation.csproj|D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\Frame\\models\\xyz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBA7B0D-6833-4DB9-80CD-D0FF1BD6DFDE}|FrameCreation.csproj|solutionrelative:models\\xyz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\Models\\XYZ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\HelperClasses\\SAPAPI_HelperMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\View\\Tool_View.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\cPlugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 178,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sap_Columns.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\Models\\Sap_Columns.cs",
+              "RelativeDocumentMoniker": "..\\FrameCreation_WPF\\Models\\Sap_Columns.cs",
+              "ToolTip": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\Models\\Sap_Columns.cs",
+              "RelativeToolTip": "..\\FrameCreation_WPF\\Models\\Sap_Columns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T00:01:26.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tool_View.xaml",
+              "DocumentMoniker": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\View\\Tool_View.xaml",
+              "RelativeDocumentMoniker": "..\\FrameCreation_WPF\\View\\Tool_View.xaml",
+              "ToolTip": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\View\\Tool_View.xaml",
+              "RelativeToolTip": "..\\FrameCreation_WPF\\View\\Tool_View.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-03T00:00:16.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tool_View.xaml.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\View\\Tool_View.xaml.cs",
+              "RelativeDocumentMoniker": "..\\FrameCreation_WPF\\View\\Tool_View.xaml.cs",
+              "ToolTip": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\View\\Tool_View.xaml.cs*",
+              "RelativeToolTip": "..\\FrameCreation_WPF\\View\\Tool_View.xaml.cs*",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwIUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:28:41.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XYZ.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\Models\\XYZ.cs",
+              "RelativeDocumentMoniker": "..\\FrameCreation_WPF\\Models\\XYZ.cs",
+              "ToolTip": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\Models\\XYZ.cs",
+              "RelativeToolTip": "..\\FrameCreation_WPF\\Models\\XYZ.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:28:22.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SAPAPI_HelperMethods.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\HelperClasses\\SAPAPI_HelperMethods.cs",
+              "RelativeDocumentMoniker": "..\\FrameCreation_WPF\\HelperClasses\\SAPAPI_HelperMethods.cs",
+              "ToolTip": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\HelperClasses\\SAPAPI_HelperMethods.cs*",
+              "RelativeToolTip": "..\\FrameCreation_WPF\\HelperClasses\\SAPAPI_HelperMethods.cs*",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAlwHgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:27:53.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cPlugin.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\cPlugin.cs",
+              "RelativeDocumentMoniker": "..\\FrameCreation_WPF\\cPlugin.cs",
+              "ToolTip": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\FrameCreation_WPF\\cPlugin.cs*",
+              "RelativeToolTip": "..\\FrameCreation_WPF\\cPlugin.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T23:27:21.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tool_View.xaml.cs",
+              "DocumentMoniker": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\View\\Tool_View.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\View\\Tool_View.xaml.cs",
+              "ToolTip": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\View\\Tool_View.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\View\\Tool_View.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:50:26.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XYZ.cs",
+              "DocumentMoniker": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\Models\\XYZ.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\Models\\XYZ.cs",
+              "ToolTip": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\Models\\XYZ.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\Models\\XYZ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:43:06.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sap_Columns.cs",
+              "DocumentMoniker": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\Models\\Sap_Columns.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\Models\\Sap_Columns.cs",
+              "ToolTip": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\Models\\Sap_Columns.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\Models\\Sap_Columns.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:42:56.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SAPAPI_HelperMethods.cs",
+              "DocumentMoniker": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\HelperClasses\\SAPAPI_HelperMethods.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\HelperClasses\\SAPAPI_HelperMethods.cs",
+              "ToolTip": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\HelperClasses\\SAPAPI_HelperMethods.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\HelperClasses\\SAPAPI_HelperMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:38:45.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tool_View.xaml",
+              "DocumentMoniker": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\View\\Tool_View.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\View\\Tool_View.xaml",
+              "ToolTip": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\View\\Tool_View.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\View\\Tool_View.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-02T22:32:26.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cPlugin.cs",
+              "DocumentMoniker": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\cPlugin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\cPlugin.cs",
+              "ToolTip": "D:\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\cPlugin.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\courses\\ITI\\SAP\\Tasks\\FrameCreation_WPF\\cPlugin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:29:31.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XYZ.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\Frame\\Models\\XYZ.cs",
+              "RelativeDocumentMoniker": "Models\\XYZ.cs",
+              "ToolTip": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\Frame\\Models\\XYZ.cs",
+              "RelativeToolTip": "Models\\XYZ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:13:37.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sap_Columns.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\Frame\\Models\\Sap_Columns.cs",
+              "RelativeDocumentMoniker": "Models\\Sap_Columns.cs",
+              "ToolTip": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\Frame\\Models\\Sap_Columns.cs",
+              "RelativeToolTip": "Models\\Sap_Columns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:13:25.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\Frame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ITI\\API\\SAP\\Asmaa Abo Elhana Shaban\\Asmaa Abo Elhana Shaban\\Frame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:02:01.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

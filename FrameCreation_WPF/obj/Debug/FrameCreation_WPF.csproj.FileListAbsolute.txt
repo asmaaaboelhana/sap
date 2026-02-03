@@ -1,0 +1,12 @@
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\bin\Debug\FrameCreation_WPF.dll
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\bin\Debug\FrameCreation_WPF.pdb
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\obj\Debug\FrameCreation_WPF.csproj.AssemblyReference.cache
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\obj\Debug\View\Tool_View.baml
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\obj\Debug\View\Tool_View.g.cs
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\obj\Debug\FrameCreation_WPF_MarkupCompile.cache
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\obj\Debug\FrameCreation_WPF.g.resources
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\obj\Debug\FrameCreation_WPF.Properties.Resources.resources
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\obj\Debug\FrameCreation_WPF.csproj.GenerateResource.cache
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\obj\Debug\FrameCreation_WPF.csproj.CoreCompileInputs.cache
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\obj\Debug\FrameCreation_WPF.dll
+D:\ITI\API\SAP\Asmaa Abo Elhana Shaban\Asmaa Abo Elhana Shaban\FrameCreation_WPF\obj\Debug\FrameCreation_WPF.pdb
