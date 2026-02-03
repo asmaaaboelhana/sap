@@ -4,7 +4,8 @@ using FrameCreation_WPF.View;
 
 namespace FrameCreation_WPF
 {
-    public class cPlugin : cPluginContract
+    [System.Runtime.InteropServices.ComVisible(true)]
+    public class cPlugin
     {
         public int Info(ref string Text)
         {
